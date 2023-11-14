@@ -1,3 +1,3 @@
 function firstbanch(){
-  console.log("this is my first newfeature branch")
+  console.log("this is my first main newfeature branch")
 }
